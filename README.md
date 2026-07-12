@@ -13,8 +13,8 @@ actually been cooked, adjusted, and refined in a real home kitchen.
 ## Categories
 
 ### Main Dishes
-- Steakhouse-Style Baked Fish
-- Spaghetti & Meatballs
+- [Steakhouse-Style Baked Fish](docs/steakhouse-style-baked-fish.md)
+- [Classic Spaghetti and Meatballs](docs/spaghetti-and-meatballs.md)
 - Homemade Burgers
 - Baked Rice Dinner
 
