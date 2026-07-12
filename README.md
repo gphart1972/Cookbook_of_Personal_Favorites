@@ -15,14 +15,14 @@ actually been cooked, adjusted, and refined in a real home kitchen.
 ### Main Dishes
 - [Steakhouse-Style Baked Fish](docs/steakhouse-style-baked-fish.md)
 - [Classic Spaghetti and Meatballs](docs/spaghetti-and-meatballs.md)
-- Homemade Burgers
-- Baked Rice Dinner
+- [Homemade Burgers](docs/homemade-burgers.md)
 
 ### Side Dishes
-- Potato Salad
+- [Homestyle Potato Salad](docs/potato-salad.md)
 
 ### Fried Foods
-- Rosemary-Brined Fried Chicken
+- [Rosemary Brined Fried Chicken](docs/rosemary-brined-fried-chicken.md)
 
 ### Rice Dishes
-- Texas–Asian Fusion Fried Rice
+- [Texas–Asian Fusion Fried Rice](docs/texas-asian-fusion-fried-rice.md)
+- [Baked Rice Dinner](docs/baked-rice-dinner.md)
