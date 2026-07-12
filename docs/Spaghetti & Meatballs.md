@@ -2,6 +2,7 @@
 
 > **Takeaway:** The secret isn't the pasta—it's the meatballs. A simple blend of beef, breadcrumbs, Parmesan, and egg simmered low and slow in tomato sauce creates tender, flavorful meatballs that taste like they've been cooking all day.
 
+![image](../images/IMG_5883.jpg)
 ## Overview
 
 This recipe focuses on traditional homemade meatballs simmered for hours in tomato sauce. The long cook time allows the meatballs to absorb the flavor of the sauce while keeping the inside tender and juicy.
