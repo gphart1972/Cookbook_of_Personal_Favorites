@@ -21,4 +21,4 @@ A collection of home-tested recipes, cooking experiments, family favorites, and 
 
 ## About
 
-Unless otherwise noted, all recipes in this collection are original recipes that have been tested and refined in a home kitchen.
+Unless otherwise noted, all recipes in this collection are original recipes.
