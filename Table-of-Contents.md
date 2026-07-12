@@ -8,7 +8,8 @@
 - [Homemade Burgers](docs/homemade-burgers.md)
 
 ### Soups
-- [Hamburger Soup](docs/ha
+- [Hamburger Soup](docs/hamburger-soup.md)
+- [Vegetable Soup with Sausage](docs/vegetable-soup-with-sausage.md)
 
 ### Side Dishes
 - [Homestyle Potato Salad](docs/potato-salad.md)
@@ -19,3 +20,4 @@
 ### Rice Dishes
 - [Texas–Asian Fusion Fried Rice](docs/texas-asian-fusion-fried-rice.md)
 - [Baked Rice Dinner](docs/baked-rice-dinner.md)
+- [Rice and Greens](docs/rice-n-greens.md)
