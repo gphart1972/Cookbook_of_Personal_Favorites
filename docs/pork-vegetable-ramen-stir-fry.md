@@ -1,7 +1,7 @@
 # Pork & Vegetable Ramen Stir-Fry
 
 A quick ramen stir-fry loaded with vegetables, chickpeas, and shaved pork loin, finished with Japanese-style soy BBQ sauce.
-
+![image](../images/pork-stir-fry.png)
 ## Ingredients
 
 - 1 package ramen noodles
