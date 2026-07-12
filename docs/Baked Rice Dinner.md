@@ -2,7 +2,7 @@
 
 > **Takeaway:** Creamy baked rice, savory soups, and your choice of meat come together in a simple one-pan meal that's hearty, comforting, and easy to customize.
 
-../!(images/rice_dinner1.png)
+![image](../images/rice_dinner1.png)
 
 ## Overview
 
