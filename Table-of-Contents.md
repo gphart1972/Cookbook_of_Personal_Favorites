@@ -7,6 +7,9 @@
 - [Classic Spaghetti and Meatballs](docs/spaghetti-and-meatballs.md)
 - [Homemade Burgers](docs/homemade-burgers.md)
 
+### Soups
+- [Hamburger Soup](docs/ha
+
 ### Side Dishes
 - [Homestyle Potato Salad](docs/potato-salad.md)
 
