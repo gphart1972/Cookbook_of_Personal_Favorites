@@ -2,7 +2,7 @@
 
 > **Takeaway:** A long overnight brine, a peppery seasoned coating, and a slow fry create juicy chicken with a crisp, flavorful crust. Inspired by the Food Network's *The Best I Ever Ate* episode, **"Deep Fried Decadence."**
 
-
+![image](../images/fried_chicken.png)
 Note:
 ```
 I made this based on the "Best I ever had" TV episode called "Deep Fried Decadence" from the Food
