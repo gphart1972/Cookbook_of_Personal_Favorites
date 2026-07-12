@@ -3,30 +3,14 @@
 > ## Real recipes from a real kitchen — tested, refined, and documented.
 
 A collection of home-tested recipes, cooking experiments,
-family favorites, and comfort food recipes.
-
-Unless otherwise noted, all recipes in this collection are original recipes.
-
-> _Some are common and may be very similar to other recipes._
-
-The goal of this cookbook is to document recipes that have
+family favorites, and comfort food recipes that have
 actually been cooked, adjusted, and refined in a real home kitchen.
 
+> _Like any well-loved cookbook, this collection is never truly finished. New recipes, revisions, notes, and kitchen discoveries will be added over time as they are tested, refined, and deemed worthy of a permanent place at the table._
 # [📖 **Table of Contents**](Table-of-Contents.md)
 
-## Categories
-
-### Main Dishes
-- [Steakhouse-Style Baked Fish](docs/steakhouse-style-baked-fish.md)
-- [Classic Spaghetti and Meatballs](docs/spaghetti-and-meatballs.md)
-- [Homemade Burgers](docs/homemade-burgers.md)
-
-### Side Dishes
-- [Homestyle Potato Salad](docs/potato-salad.md)
-
-### Fried Foods
-- [Rosemary Brined Fried Chicken](docs/rosemary-brined-fried-chicken.md)
-
-### Rice Dishes
-- [Texas–Asian Fusion Fried Rice](docs/texas-asian-fusion-fried-rice.md)
-- [Baked Rice Dinner](docs/baked-rice-dinner.md)
+```
+Unless otherwise noted, all recipes in this collection are original recipes.
+Some recipes may share similarities with classic or commonly known dishes,
+reflecting the traditions and techniques that inspire home cooking.
+```
