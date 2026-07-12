@@ -1,12 +1,14 @@
 # Pork & Vegetable Ramen Stir-Fry
 
 A quick ramen stir-fry loaded with vegetables, chickpeas, and shaved pork loin, finished with Japanese-style soy BBQ sauce.
-![image](../images/pork-stir-fry.png)
+
+![image](../images/pork-stir-fry.jpg)
 ## Ingredients
 
 - 1 package ramen noodles
 - 1/4 cup sliced carrots (canned, drained)
 - 1/4 cup chickpeas (canned, drained)
+- 1/4 cup green peas (canned, drained)
 - 1/2 cup broccoli florets, stems trimmed short
 - 1/4 cup sliced onion
 - 2 small pickled peppers or jalapeños, sliced (optional)
@@ -27,17 +29,19 @@ A quick ramen stir-fry loaded with vegetables, chickpeas, and shaved pork loin, 
 
 5. Drain the broccoli and add it to the skillet. Stir well to combine.
 
-6. Sprinkle in the garlic powder and continue stirring.
+6. Now add in the garlic powder and continue stirring.
 
 7. Add approximately 1 tablespoon of Japanese soy-based BBQ sauce and mix thoroughly until the vegetables are evenly coated and piping hot.
 
 8. Add the shaved pork loin and stir continuously until the pork begins changing from pink to gray.
 
-9. Add the cooked ramen noodles. Using tongs, toss and mix everything together well.
+9. Here is when I normally also add the seasoning pack from the ramen noodles and stir in. 
 
-10. Reduce the heat slightly and continue stirring until the noodles, vegetables, and pork are fully combined and heated through. Avoid letting the noodles stick to the bottom of the pan.
+10. Add the cooked ramen noodles. Using tongs, toss and mix everything together well.
 
-11. Serve immediately in a large bowl.
+11. Reduce the heat slightly and continue stirring until the noodles, vegetables, and pork are fully combined and heated through. Avoid letting the noodles stick to the bottom of the pan.
+
+12. Serve immediately in a large bowl.
 
 ## Notes
 
