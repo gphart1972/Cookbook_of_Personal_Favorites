@@ -1,11 +1,13 @@
 # Greg Hart's Cookbook
 
+> ## Real recipes from a real kitchen — tested, refined, and documented.
+
 A collection of home-tested recipes, cooking experiments,
 family favorites, and comfort food recipes.
 
-Unless noted in the recipe page all of these are orginal recipes.
+Unless otherwise noted, all recipes in this collection are original recipes.
 
-> _Some are common and may be very similiar to other recipes._
+> _Some are common and may be very similar to other recipes._
 
 The goal of this cookbook is to document recipes that have
 actually been cooked, adjusted, and refined in a real home kitchen.
