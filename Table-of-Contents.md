@@ -17,6 +17,7 @@
 ### Rice Dishes
 - [Texas–Asian Fusion Fried Rice](docs/texas-asian-fusion-fried-rice.md)
 - [Baked Rice Dinner](docs/baked-rice-dinner.md)
+- [Guajillo Chicken, Black Bean & Corn Rice Bake](docs/guajillo-chicken-black-bean-corn-rice-bake.md)
 - [Rice and Greens](docs/rice-n-greens.md)
 
 ### Side Dishes
